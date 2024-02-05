@@ -1,4 +1,5 @@
-# ЛК 15.01 gitbash - это команды для работы с гид из терминала bash создание репозитория на компьюторе: инициализация 1 $ git status On branch main указывает имя ветки No commits yet нет сохранений Untracked files: - неотслеживаемые файлы (use "git add ..." to include in what will be committed) - нужна команда добавить , чтобы зафиксировать версию index.html - список файлов для сохранения pictures/
+# ЛК 15.01.24
+Gitbash - это команды для работы с гид из терминала bash создание репозитория на компьюторе: инициализация 1 $ git status On branch main указывает имя ветки No commits yet нет сохранений Untracked files: - неотслеживаемые файлы (use "git add ..." to include in what will be committed) - нужна команда добавить , чтобы зафиксировать версию index.html - список файлов для сохранения pictures/
 
 nothing added to commit but untracked files present (use "git add" to track) - найдены файла для добавления Настраиваем ползователя в git git config --global user.name PK303-0 git config --global user.email PK303-0@gmail.com
 
