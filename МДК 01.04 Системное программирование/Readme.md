@@ -97,6 +97,16 @@ $ git logl"
 
 # ЛК3 05.02.24.
 
+1.Создание 
+2.Перемещение
+3.Редактирование
+4.Удаление 
+
+Обычный файл(Regular file)
+
+1.touch ccl.txt
+2.mv ccl.txt /home/stud/'Рабочий стол'
+3.nano /home/stud/'Рабочий стол'/ccl.txt; cat /home/stud/'Рабочий стол'/ccl.txt
 
 
 
