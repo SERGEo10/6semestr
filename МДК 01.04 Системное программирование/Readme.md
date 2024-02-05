@@ -112,8 +112,13 @@ $ git logl"
 
 Папка (Directory)
 
-1.mkdir ccl
-2.touch /home/stud/ccl/xxl.txt; ls /home/stud/ccl
+1. mkdir ccl
+2. touch /home/stud/ccl/xxl.txt
+3. ls /home/stud/ccl
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/302039c3-6ac6-42b2-8f3f-88d73b9f852d)
+
+
 
 
 
