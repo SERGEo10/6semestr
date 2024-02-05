@@ -102,7 +102,7 @@ $ git logl"
 3. Редактирование
 4. Удаление 
 
-Обычный файл(Regular file)
+Обычный файл (Regular file)
 
 1. touch ccl.txt
 2. mv ccl.txt /home/stud/'Рабочий стол'
@@ -110,9 +110,10 @@ $ git logl"
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/ad70dbcc-248c-4b42-9a5d-7170ea8e420e)
 
+Папка (Directory)
 
-
-
+1.mkdir ccl
+2.touch /home/stud/ccl/xxl.txt; ls /home/stud/ccl
 
 
 
