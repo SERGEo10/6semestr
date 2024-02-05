@@ -108,6 +108,9 @@ $ git logl"
 2.mv ccl.txt /home/stud/'Рабочий стол'
 3.nano /home/stud/'Рабочий стол'/ccl.txt; cat /home/stud/'Рабочий стол'/ccl.txt
 
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/ad70dbcc-248c-4b42-9a5d-7170ea8e420e)
+
+
 
 
 
