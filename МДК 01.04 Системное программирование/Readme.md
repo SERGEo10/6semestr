@@ -95,6 +95,8 @@ $ git logl"
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/0c84387a-5eac-45e1-87ef-9a8c873504ae)
 
+# ЛК3 05.02.24.
+
 
 
 
