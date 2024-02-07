@@ -123,6 +123,10 @@ $ git logl"
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/302039c3-6ac6-42b2-8f3f-88d73b9f852d)
 
+Для RedOS 
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/b76128b1-8dd2-42a9-830b-96787cfb3d22)
+
 
 
 
