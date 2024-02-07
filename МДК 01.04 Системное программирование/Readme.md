@@ -127,6 +127,8 @@ $ git logl"
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/b76128b1-8dd2-42a9-830b-96787cfb3d22)
 
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/89513f02-e158-4ef9-bc1b-8f362e6e9637)
+
 
 
 
