@@ -131,6 +131,17 @@ $ git logl"
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/89513f02-e158-4ef9-bc1b-8f362e6e9637)
 
+Передача данных: сокет(socket) и каналы(pipe)
+
+Разница в способе передачи данных
+
+Fifo - first in first out 
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/e53fcba1-5d3c-4d12-99a9-ab27e792394c)
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/51084aaa-e7e6-4a29-b605-56f6337a306c)
+
+
 
 
 
