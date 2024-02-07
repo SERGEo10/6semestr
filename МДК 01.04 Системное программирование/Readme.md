@@ -110,6 +110,11 @@ $ git logl"
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/ad70dbcc-248c-4b42-9a5d-7170ea8e420e)
 
+Для RedOS
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/3a66f34a-c68d-4770-a470-758f91d3fb5a)
+
+
 Папка (Directory)
 
 1. mkdir ccl
