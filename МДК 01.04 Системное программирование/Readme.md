@@ -131,6 +131,9 @@ $ git logl"
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/89513f02-e158-4ef9-bc1b-8f362e6e9637)
 
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/1201e0c4-51c7-4fba-adb1-2ac7956561f5)
+
+
 Передача данных: сокет(socket) и каналы(pipe)
 
 Разница в способе передачи данных
@@ -158,6 +161,16 @@ mknod charf c 5 100
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/ea5a46b6-a292-41bb-a6ee-e2f90267dc65)
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/6e8256d3-2bae-4855-af7e-960c1e0a4f37)
+
+Файлам присваивается уникальный номер - enod, посмотреть командой ls i1. Жёсткие ссылки имеют тот же номер, что и исходный файл и это можно использовать чтобы найти все жёсткие ссылки.
+
+Скрипты
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/d8199296-0d5d-4c76-821e-7b9852fbe802)
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/18e6046d-fffb-474d-922a-5c3e65ea1e20)
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/ec873e9a-2335-47ef-bd16-29b374ff4773)
 
 
 
