@@ -25,3 +25,6 @@ TDD - разработка через тестирование.
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/50391609-e7ec-43b5-bb7f-76443445c355)
 
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/832fa3cf-0433-4fdc-b0df-12cc6488966c)
+
+
