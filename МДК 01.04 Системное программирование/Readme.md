@@ -143,6 +143,23 @@ Fifo - first in first out
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/1f21d9cf-dd74-425b-8a55-476d3e67628b)
 
+# 12.02.24
+Устройство:
+1. Символьные(мышь, клавиатура)
+2. Блочные(флешки)
+
+mknod
+mknod blockf b 5 100
+nano blockf
+rm blockf
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/22b07200-d0f3-4e39-a434-8258084046e7)
+
+mknod charf c 5 100
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/ea5a46b6-a292-41bb-a6ee-e2f90267dc65)
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/6e8256d3-2bae-4855-af7e-960c1e0a4f37)
+
+
 
 
 
