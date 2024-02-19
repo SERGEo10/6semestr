@@ -103,7 +103,8 @@ TDD - разработка через тестирование.
 5. Неэффективный отсчёт
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/8337b76f-ec45-45ca-bd69-311902f3711b)
-![image](https://github.com/SERGEo10/6semestr/assets/106819250/bc64718a-e216-44e8-b266-db9bc7f32922)
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/64b64594-7850-4d63-b451-790858d6e1d9)
+
 
  
 
