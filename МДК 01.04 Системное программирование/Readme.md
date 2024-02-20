@@ -192,6 +192,7 @@ mknod charf c 5 100
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/ec873e9a-2335-47ef-bd16-29b374ff4773)
 
+# ЛК 3 19.02 Пользователи
 
 
 
