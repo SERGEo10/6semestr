@@ -91,13 +91,13 @@ $ git logl"
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/0869ec52-ce89-458f-9c6b-3bc948ccfa35)
 
 
-# Дебианс с
+**Дебианс**
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/3e2326b1-3229-4dad-ad5f-e35ca17dea4d)
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/0c84387a-5eac-45e1-87ef-9a8c873504ae)
 
-# РедОС python
+**РедОС python**
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/1b97a25c-3f3d-4535-9e67-9a233fb20296)
 
@@ -134,7 +134,7 @@ $ git logl"
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/b76128b1-8dd2-42a9-830b-96787cfb3d22)
 
-# Жёсткие и символьные ссылки
+**Жёсткие и символьные ссылки**
 
 ln -s main.txt smain.txt - мягкая ссылка ln main.txt hmain.txt
 
@@ -147,7 +147,7 @@ ln -s main.txt smain.txt - мягкая ссылка ln main.txt hmain.txt
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/1201e0c4-51c7-4fba-adb1-2ac7956561f5)
 
 
-# Передача данных: сокет(socket) и каналы(pipe)
+**Передача данных: сокет(socket) и каналы(pipe)**
 
 Разница в способе передачи данных
 
@@ -184,7 +184,7 @@ mknod charf c 5 100
 
 Файлам присваивается уникальный номер - enod, посмотреть командой ls i1. Жёсткие ссылки имеют тот же номер, что и исходный файл и это можно использовать чтобы найти все жёсткие ссылки.
 
-Скрипты
+**Скрипты**
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/d8199296-0d5d-4c76-821e-7b9852fbe802)
 
