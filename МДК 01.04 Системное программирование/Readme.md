@@ -97,6 +97,11 @@ $ git logl"
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/0c84387a-5eac-45e1-87ef-9a8c873504ae)
 
+# РедОС python
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/1b97a25c-3f3d-4535-9e67-9a233fb20296)
+
+
 # ЛК3 05.02.24.
 
 1. Создание 
