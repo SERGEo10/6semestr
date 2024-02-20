@@ -159,6 +159,11 @@ Fifo - first in first out
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/1f21d9cf-dd74-425b-8a55-476d3e67628b)
 
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/b3ac4845-df47-4b1f-b1e6-d9635d689064)
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/1dfc9302-91af-482f-9393-403dcf6b4c4c)
+
+
 # 12.02.24
 Устройство:
 1. Символьные(мышь, клавиатура)
