@@ -194,6 +194,20 @@ mknod charf c 5 100
 
 # ЛК 3 19.02 Пользователи
 
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/f33313ef-5de9-4e96-96d4-1390664133f3)
+
+stud - имя пользователя x - пароль 1000 - номер пользователья 1000 - номер группы
+
+bin\bash - терминал пользователя
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/a7aaede6-d14c-4213-966f-a0c7adb58d3d)
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/8b2711a4-b44d-4778-81b9-f080b04e0bea)
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/22eeba89-5e98-4d25-a06b-17464039147e)
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/c77843a3-6470-4dc9-a226-188a185b7f45)
+
+
+
+
 
 
 
