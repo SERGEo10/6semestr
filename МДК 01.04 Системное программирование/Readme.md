@@ -134,14 +134,20 @@ $ git logl"
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/b76128b1-8dd2-42a9-830b-96787cfb3d22)
 
-Жёсткие и символьные ссылки
+# Жёсткие и символьные ссылки
+
+ln -s main.txt smain.txt - мягкая ссылка ln main.txt hmain.txt
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/27b68833-f476-4946-bfe8-53cc0597dea6)
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/d2e58626-9c87-4cbc-b682-79178f1f78bd)
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/89513f02-e158-4ef9-bc1b-8f362e6e9637)
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/1201e0c4-51c7-4fba-adb1-2ac7956561f5)
 
 
-Передача данных: сокет(socket) и каналы(pipe)
+# Передача данных: сокет(socket) и каналы(pipe)
 
 Разница в способе передачи данных
 
