@@ -219,6 +219,11 @@ bin\bash - терминал пользователя
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/9ee3bde0-ee99-4caa-be68-32d212ca486a)
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/099e0303-f979-455b-b21c-2a4fa81fabe6)
 
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/8a924ace-541d-4909-a1fb-c93c23ca4d49)
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/75a46689-b8bf-4c1a-9b5b-064175bbcd1e)
+
+
+
 
 
 
