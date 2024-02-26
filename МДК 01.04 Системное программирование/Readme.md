@@ -144,7 +144,7 @@ ln -s main.txt smain.txt - мягкая ссылка ln main.txt hmain.txt
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/89513f02-e158-4ef9-bc1b-8f362e6e9637)
 
-![image](https://github.com/SERGEo10/6semestr/assets/106819250/1ad47d78-95e3-4567-8642-1e3ec77d1be5)
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/8d215f50-3e2b-4566-abf5-560bba75369b)
 
 
 
