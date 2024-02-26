@@ -162,7 +162,7 @@ Fifo - first in first out
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/b3ac4845-df47-4b1f-b1e6-d9635d689064)
 
-![image](https://github.com/SERGEo10/6semestr/assets/106819250/de0ed9c8-134c-4176-b301-3606ced5d0a0)
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/b4b53825-abb9-45bf-9afa-21bb06503e8d)
 
 
 
