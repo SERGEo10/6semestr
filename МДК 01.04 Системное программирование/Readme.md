@@ -144,7 +144,8 @@ ln -s main.txt smain.txt - мягкая ссылка ln main.txt hmain.txt
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/89513f02-e158-4ef9-bc1b-8f362e6e9637)
 
-![image](https://github.com/SERGEo10/6semestr/assets/106819250/1201e0c4-51c7-4fba-adb1-2ac7956561f5)
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/1ad47d78-95e3-4567-8642-1e3ec77d1be5)
+
 
 
 **Передача данных: сокет(socket) и каналы(pipe)**
