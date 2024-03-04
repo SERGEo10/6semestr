@@ -150,7 +150,8 @@ TDD - разработка через тестирование.
 
 **Классы эквивалентности** - Одинаковая верояность обнаружения конкретного типа обнаружения
 
-![image](https://github.com/SERGEo10/6semestr/assets/106819250/315de458-e7c4-4669-be25-ad1a2beb72d5)
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/9c0ecc60-8369-4020-a004-ebd4b5c82798)
+
 
 
  
