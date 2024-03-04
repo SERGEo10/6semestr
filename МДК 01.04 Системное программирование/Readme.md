@@ -228,6 +228,26 @@ bin\bash - терминал пользователя
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/75a46689-b8bf-4c1a-9b5b-064175bbcd1e)
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/b3560842-bb76-4312-a13e-20efc42dbd83)
 
+# ЛК 4 04.03 Структура памяти процесса
+
+**Debian**
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/9421f30f-8dca-404c-98a4-f30610577bfb)
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/4ad56eb8-6d9c-42e3-980e-e8c651f757e6)
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/ae1222b8-f641-46e6-922e-1fb97f98e82d)
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/ae99b8bb-2807-401d-9888-324654512d49)
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/cd94ad76-b270-4ef7-8ced-cd0ce96d6b5b)
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/1f11ee4b-212d-4a2e-b2a3-38477d3bbcdf)
+
+Переполнение стэк
+
+
+
 
 
 
