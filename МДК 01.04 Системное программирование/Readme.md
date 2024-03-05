@@ -268,6 +268,27 @@ sleep(100);
 return 0;
 }
 
+import os
+import ctypes
+import mmap
+
+data = 10
+
+def main():
+    stack = None
+    heap = ctypes.c_void_p(mmap.malloc(1, mmap.MAP_PRIVATE | mmap.MAP_ANONYMOUS))
+    libc_base = ctypes.CDLL(None).printf
+    libc_text = ctypes.cast(libc_base, ctypes.c_void_p).value
+    print("PID={}".format(os.getpid()))
+    print("Text={}".format(main))
+    print("Data={}".format(id(data)))
+    print("Heap={}".format(heap))
+    print("libc.so={}".format(libc_text))
+    print("Stack={}".format(id(stack)))
+    input("Press Enter to exit.")
+
+if __name__ == "__main__":
+    main()
 
 
 
