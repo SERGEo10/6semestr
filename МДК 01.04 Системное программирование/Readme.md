@@ -270,15 +270,14 @@ return 0;
 
 import os
 import ctypes
-import mmap
 
 data = 10
 
 def main():
     stack = None
-    heap = ctypes.c_void_p(mmap.malloc(1, mmap.MAP_PRIVATE | mmap.MAP_ANONYMOUS))
     libc_base = ctypes.CDLL(None).printf
     libc_text = ctypes.cast(libc_base, ctypes.c_void_p).value
+    heap = ctypes.CDLL(None).malloc(1)
     print("PID={}".format(os.getpid()))
     print("Text={}".format(main))
     print("Data={}".format(id(data)))
@@ -289,6 +288,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 AttributeError: module 'mmap' has no attribute 'malloc'
 
