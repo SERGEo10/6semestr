@@ -272,6 +272,21 @@ printf("PID=%i\n",getpid());
 func(1);
 return 0;
 
+import os
+
+data = 10  # глобальная переменная
+
+def func(a):
+    print(a)
+    return func(a + 1)
+
+def main():
+    print("PID=", os.getpid())
+    func(1)
+
+if __name__ == "__main__":
+    main()
+
 
 
 
