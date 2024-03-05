@@ -256,36 +256,6 @@ bin\bash - терминал пользователя
 Запуск программы, код программы.
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/455c9ad9-5c95-4907-ae8c-2d2d47b84792)
 
-#include <unistd.h>
-#include <malloc.h>
-#include <stdio.h>
-#include <sys/mman.h>
-
-int data=10; //глобальная переменная
-int func(int a){
-printf("%i\n",a);
-return func(a+1);
-}
-int main(int argc, char *argv[])
-{
-printf("PID=%i\n",getpid());
-func(1);
-return 0;
-
-import os
-
-data = 10  # глобальная переменная
-
-def func(a):
-    print(a)
-    return func(a + 1)
-
-def main():
-    print("PID=", os.getpid())
-    func(1)
-
-if __name__ == "__main__":
-    main()
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/559d5dcb-9c54-454b-8c88-4a7419acbcab)
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/af649346-db98-4c7d-aa28-633ce3f4d543)
