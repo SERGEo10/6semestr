@@ -294,7 +294,8 @@ if __name__ == "__main__":
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/00b3bc25-39fb-497b-8bf1-c40b7497e365)
 
-![image](https://github.com/SERGEo10/6semestr/assets/106819250/597c6f08-6337-4c71-8027-5e69051a3dc3)
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/455c9ad9-5c95-4907-ae8c-2d2d47b84792)
+
 
 
 
