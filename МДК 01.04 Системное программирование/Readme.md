@@ -286,7 +286,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/559d5dcb-9c54-454b-8c88-4a7419acbcab)
 
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/af649346-db98-4c7d-aa28-633ce3f4d543)
 
 
 
