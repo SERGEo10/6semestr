@@ -246,49 +246,6 @@ bin\bash - терминал пользователя
 
 Переполнение стэк
 
-#include <unistd.h>
-#include <malloc.h>
-#include <stdio.h>
-#include <sys/mman.h>
-
-int data=10;
-int main(int argc, char *argv[])
-{
-int stack;
-void *heap;
-heap=malloc(1);
-printf("PID=%i\n",getpid());
-printf("Text=%p\n",main);
-printf("Data=%p\n",&data);
-printf("Heap=%p\n",heap);
-prtinf("libc.so=%p\n",printf);
-printf("Stack=%p\n",&stack);
-
-sleep(100);
-return 0;
-}
-
-import os
-import ctypes
-
-data = 10
-
-def main():
-    stack = None
-    libc_base = ctypes.CDLL(None).printf
-    libc_text = ctypes.cast(libc_base, ctypes.c_void_p).value
-    heap = ctypes.CDLL(None).malloc(1)
-    print("PID={}".format(os.getpid()))
-    print("Text={}".format(main))
-    print("Data={}".format(id(data)))
-    print("Heap={}".format(heap))
-    print("libc.so={}".format(libc_text))
-    print("Stack={}".format(id(stack)))
-    input("Press Enter to exit.")
-
-if __name__ == "__main__":
-    main()
-
 **RedOS**
 
 Вывод процессов.
