@@ -290,11 +290,13 @@ if __name__ == "__main__":
     main()
 
 **RedOS**
-Вывод процессов
+Вывод процессов.
+
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/c417d9be-4560-4a8e-abf9-179c8b750060)
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/00b3bc25-39fb-497b-8bf1-c40b7497e365)
 
+Запуск программы, код программы.
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/455c9ad9-5c95-4907-ae8c-2d2d47b84792)
 
 
