@@ -257,11 +257,9 @@ bin\bash - терминал пользователя
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/455c9ad9-5c95-4907-ae8c-2d2d47b84792)
 
 Код программы
-
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/559d5dcb-9c54-454b-8c88-4a7419acbcab)
 
 Переполнение стек
-
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/af649346-db98-4c7d-aa28-633ce3f4d543)
 
 
