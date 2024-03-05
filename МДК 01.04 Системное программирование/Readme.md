@@ -290,6 +290,8 @@ def main():
 if __name__ == "__main__":
     main()
 
+AttributeError: module 'mmap' has no attribute 'malloc'
+
 
 
 
