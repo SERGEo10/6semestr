@@ -243,17 +243,20 @@ bin\bash - терминал пользователя
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/cd94ad76-b270-4ef7-8ced-cd0ce96d6b5b)
 
 Переполнение стэк
+
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/1f11ee4b-212d-4a2e-b2a3-38477d3bbcdf)
 
 
 **RedOS**
 
 Вывод процессов
+
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/c417d9be-4560-4a8e-abf9-179c8b750060)
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/00b3bc25-39fb-497b-8bf1-c40b7497e365)
 
 Запуск программы, код программы
+
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/455c9ad9-5c95-4907-ae8c-2d2d47b84792)
 
 Код программы
