@@ -290,24 +290,7 @@ bin\bash - терминал пользователя
 3.Ready - процесс готов в выполнению, но находится в очереди
 4.Running - это запущен(ctrl+c - stop, ctrl+z - сон)
 
-File Edit Options Buffers Tools C Help                                          
-#include <unistd.h>
-#include <malloc.h>
-#include <stdio.h>
-#include <sys/mman.h>
-
-int data=10; //глобальная переменная                                            
-int func(int a){
-printf("%i\n",a);
-return func(a+1);
-}
-int main(int argc, char *argv[])
-{
-printf("PID=%i\n",getpid());
-func(1);
-return 0;
-}
-
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/b61d1df1-ab06-4223-82ca-64292dc1677b)
 
 
 
