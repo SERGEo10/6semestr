@@ -281,6 +281,33 @@ bin\bash - терминал пользователя
 
 Первый процесс в системе это init
 
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/3b847e60-7333-4a8e-a4a7-3dbdd07c41d6)
+
+Смерть процесса - exit() или kill, завершение процесса:
+
+1.Остановка дочернего процесса - либо переподключится, либо станет зомби
+2.Завершили родительский - либо дочерний будет зомби, либо подключиться к другому родительскому
+3.Ready - процесс готов в выполнению, но находится в очереди
+4.Running - это запущен(ctrl+c - stop, ctrl+z - сон)
+
+File Edit Options Buffers Tools C Help                                          
+#include <unistd.h>
+#include <malloc.h>
+#include <stdio.h>
+#include <sys/mman.h>
+
+int data=10; //глобальная переменная                                            
+int func(int a){
+printf("%i\n",a);
+return func(a+1);
+}
+int main(int argc, char *argv[])
+{
+printf("PID=%i\n",getpid());
+func(1);
+return 0;
+}
+
 
 
 
