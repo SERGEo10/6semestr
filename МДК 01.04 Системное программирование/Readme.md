@@ -309,11 +309,13 @@ bin\bash - терминал пользователя
 **Debian**
 
 Запуск и проверка состояния сервера
+
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/e343add7-b362-4cb6-80a2-2659cc98e9bd)
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/0cde8502-8ea8-4c4b-9ff2-549a1d9e94c8)
 
 Переход в работу с базой данных
+
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/0108cb98-041b-4c9d-ab82-53fa17f7aff3)
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/c9ea98d8-87c1-4832-87ec-990baa3da964)
