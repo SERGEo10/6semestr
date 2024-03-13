@@ -328,6 +328,8 @@ bin\bash - терминал пользователя
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/5f3613e6-25af-47ca-a5ec-8ed497d27796)
 
+Проверяем количкство строк
+
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/1e659467-99fb-4258-baa8-36f9cb6e087b)
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/fc2e593e-507e-4dd2-8859-63c058ca7d12)
