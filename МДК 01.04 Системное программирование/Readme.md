@@ -318,9 +318,13 @@ bin\bash - терминал пользователя
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/0108cb98-041b-4c9d-ab82-53fa17f7aff3)
 
+Создание и изменение данных в таблице
+
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/c9ea98d8-87c1-4832-87ec-990baa3da964)
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/e5cac84f-9d98-42bf-af5f-b649cfb269c8)
+
+Структура БД
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/5f3613e6-25af-47ca-a5ec-8ed497d27796)
 
