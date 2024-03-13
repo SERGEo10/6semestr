@@ -320,6 +320,17 @@ bin\bash - терминал пользователя
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/1e659467-99fb-4258-baa8-36f9cb6e087b)
 
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/fc2e593e-507e-4dd2-8859-63c058ca7d12)
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/a0375673-7b9b-4669-9158-ea3a0e590e67)
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/3241d4bf-8634-4e75-acbd-a9726c91c417)
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/13f6ce5e-c4db-4ea6-8457-2454b00c4ed2)
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/93b25ba3-8f0c-4c71-84f8-e2ffa9399536)
+
+
 
 
 
