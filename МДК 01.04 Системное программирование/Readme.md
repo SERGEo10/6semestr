@@ -327,6 +327,8 @@ bin\bash - терминал пользователя
 
 **Debian**
 
+Подключение к БД
+
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/94d68e1e-b4bd-4aaf-9503-fd232a5cdc3c)
 
 Запуск и проверка состояния сервера
