@@ -176,8 +176,29 @@ Assert - постусловие
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/b4a906b5-764f-453d-b402-28da1a58cffd)
 
+Нужно 2 файла. 1 файл программа которую нужно протестировать, а 2-ой сами тесты. 
 
+ПКМ по имени функции
 
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/4ab2bdb4-049b-4d7b-aead-f25dfe2448bd)
+
+Простой вариант
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/2c246489-8d5c-4714-88cd-2d04e7624a43)
+
+Сложный вариант
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/c0b93c02-4423-4d01-9e03-8c0cad22aa07)
+
+Файл собранной библиотеки имеет расширение dll и страницу bin debug
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/9e770029-ad17-426c-adc9-c5a38d3dafec)
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/dcd77330-9c1f-4a7c-ac5e-42d595e5f509)
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/246d1928-4a02-4adc-aea5-2446f5b27ac8)
+
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/4e9d190e-4771-4af2-b8ee-e6c6caf3b6a7)
 
 
 
