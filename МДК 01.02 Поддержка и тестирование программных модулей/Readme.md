@@ -154,7 +154,7 @@ TDD - разработка через тестирование.
 
 https://docs.google.com/document/d/11lv4z1qVRJYPmHen8uuUZ7msKK9WPY6wfhnwr5KKWQc/edit?usp=sharing
 
-#Лекция 4. Unit test
+# Лекция 4. Unit test
 
 unit тест - функция, которая проверяет 1 действие из кода. Есть ожидаемый результат - если ожидаемый результат не получен - тест не пройден.
 
