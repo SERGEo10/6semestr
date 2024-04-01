@@ -384,6 +384,17 @@ Docker - ПО с открытым кодом, позволяет перенос�
 
 Клиент - интерфейс. Демон - управление объектами докера. Контейнер - программа. Образ - конфигурация в файле.
 
+**Задание 6**
+
+![image](https://github.com/zdarova69/USMONOVNN-IS21/assets/113101818/92006ac0-3b19-4fe1-94c6-3af33bad982f)
+![image](https://github.com/zdarova69/USMONOVNN-IS21/assets/113101818/2a211e36-21a0-4c42-959a-477906b3b79f)
+![image](https://github.com/zdarova69/USMONOVNN-IS21/assets/113101818/e396ad4c-7a0e-4555-a042-da59cb6ecf82)
+
+![image](https://github.com/zdarova69/USMONOVNN-IS21/assets/113101818/6981886b-6dce-4f1d-a119-b0b0322b8008)
+
+
+![image](https://github.com/zdarova69/USMONOVNN-IS21/assets/113101818/ec4bcb03-a291-461b-b1a5-849e68a20cff)
+![image](https://github.com/zdarova69/USMONOVNN-IS21/assets/113101818/85507324-8bfe-4624-8aac-3f28b4f7efcd)
 
 
 
