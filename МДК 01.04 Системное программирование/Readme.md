@@ -402,6 +402,9 @@ Docker - ПО с открытым кодом, позволяет перенос�
 
 ![image](https://github.com/SERGEo10/6semestr/assets/106819250/8d07a2a2-dae0-4a22-88ea-8dfad9d89c1d)
 
+![image](https://github.com/SERGEo10/6semestr/assets/106819250/6453f706-10ef-4232-9134-48f1c814a0ed)
+
+
 
 
 
