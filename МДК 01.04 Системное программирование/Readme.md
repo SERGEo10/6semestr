@@ -1,5 +1,7 @@
 # ЛК1 15.01.24.
 
+https://docs.google.com/document/d/1z27O5xLblWKjIxcXRZnbd1smm-oYa8bt/edit#heading=h.lxq8x11igx58 - методичка
+
 Git Bash - команды для работы с Git из терминала 
 
 [Установка Git Bash](https://git-scm.com/downloads)
