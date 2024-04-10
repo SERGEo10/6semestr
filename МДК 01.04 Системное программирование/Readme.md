@@ -400,10 +400,56 @@ Docker - ПО с открытым кодом, позволяет перенос�
 
 # ЛК 7. INFLUXDB
 
-![image](https://github.com/SERGEo10/6semestr/assets/106819250/8d07a2a2-dae0-4a22-88ea-8dfad9d89c1d)
+**Установка**
 
-![image](https://github.com/SERGEo10/6semestr/assets/106819250/6453f706-10ef-4232-9134-48f1c814a0ed)
+    # influxdata-archive_compat.key GPG Fingerprint: 9D539D90D3328DC7D6C8D3B9D8FF8E1F7DF8B07E
+    wget -q https://repos.influxdata.com/influxdata-archive_compat.key
+    echo '393e8779c89ac8d958f81f942f9ad7fb82a25e133faddaf92e15b16e6ac9ce4c influxdata-archive_compat.key' | sha256sum -c && cat influxdata-archive_compat.key | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/influxdata-archive_compat.gpg > /dev/null
+    echo 'deb [signed-by=/etc/apt/trusted.gpg.d/influxdata-archive_compat.gpg] https://repos.influxdata.com/debian stable main' | sudo tee /etc/apt/sources.list.d/influxdata.list
 
+    sudo apt-get update && sudo apt-get install influxdb
+    sudo service influxdb start
+
+    sudo apt-get update && sudo apt-get install influxdb
+    sudo systemctl unmask influxdb.service
+    sudo systemctl start influxdb
+
+    curl -s https://repos.influxdata.com/influxdata-archive_compat.key | gpg --import
+
+    wget https://dl.influxdata.com/influxdb/releases/influxdb-1.8.10_linux_amd64.tar.gz.asc
+
+    gpg --verify influxdb-1.8.10_linux_amd64.tar.gz.asc influxdb-1.8.10_linux_amd64.tar.gz
+![image](https://github.com/zdarova69/USMONOVNN-IS21/assets/113101818/bb85f888-35d5-43eb-abca-341398e6d42b)
+
+![image](https://github.com/zdarova69/USMONOVNN-IS21/assets/113101818/81925fb8-ee80-4f0b-8f2e-6835d464e5bd)
+
+    wget https://dl.influxdata.com/influxdb/releases/influxdb-1.7.6.x86_64.rpm
+    
+    sha256sum influxdb-1.7.6.x86_64.rpm
+    
+    dnf localinstall influxdb-1.7.6.x86_64.rpm 
+    
+    cat > /etc/yum.repos.d/influxdb.repo << EOF
+    [influxdb]
+    name = InfluxDB Repository
+    baseurl = https://repos.influxdata.com/rhel/7Server/x86_64/stable/
+    enabled = 1
+    gpgcheck = 1
+    gpgkey = https://repos.influxdata.com/influxdb.key
+    EOF
+    
+    dnf update
+    dnf install influxdb 
+    
+    systemctl start influxdb
+    systemctl enable influxdb
+    
+    firewall-cmd --add-port={8086,8088}/tcp --permanent
+    firewall-cmd --reload
+    
+    curl -XPOST "http://localhost:8086/query" --data-urlencode "q=CREATE DATABASE testdb"
+
+![image](https://github.com/zdarova69/USMONOVNN-IS21/assets/113101818/7f443597-e37d-4cca-8887-836d0f96f1ef)
 
 
 
